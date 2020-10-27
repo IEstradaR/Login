@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Login</string>
+
+    <string name="btn1">OK</string>
+    <string name="loginLabel">LOGIN</string>
+    <string name="empresa">Digite su Empresa</string>
+    <string name="login">Digite su Login</string>
+    <string name="password">Digite su contraseña</string>
+    <string name="passwdAdvice">Olvidaste tu contraseña?</string>
 </resources>
